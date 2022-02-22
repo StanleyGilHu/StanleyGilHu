@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently searching for an entry level computer science job, and also aiming to get an IBM data science certification through Coursea at the moment.
 
-- 💞️ I’m looking to collaborate on ...
-
 - 📫 You can reach me at stanleygilhu@gmail.com
 
 
